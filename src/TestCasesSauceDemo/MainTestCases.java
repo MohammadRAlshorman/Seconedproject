@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 public class MainTestCases {
 
-	// standard_user
+	// standard_user01s
 
 	WebDriver driver = new ChromeDriver();
 
